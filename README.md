@@ -6,6 +6,7 @@ Aplicación de consulta de clima que pueda visualizar el pronóstico actual, pr�
 
 ```bash
 $ npm install
+$ npm start
 ```
 
 ## Endpoints
