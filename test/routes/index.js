@@ -2,8 +2,6 @@ const request = require("supertest");
 const should = require("should");
 const app = require("../../index");
 
-const controller = require("../../controllers/locations");
-
 global.app = app;
 global.request = request(app);
 
