@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/federicojd/sax-apis.git"
+    "url": "git+https://github.com/federicojd/weather.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/federicojd/sax-apis/issues"
+    "url": "https://github.com/federicojd/weather/issues"
   },
-  "homepage": "https://github.com/federicojd/sax-apis#readme",
+  "homepage": "https://github.com/federicojd/weather#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "consign": "^0.1.6",
